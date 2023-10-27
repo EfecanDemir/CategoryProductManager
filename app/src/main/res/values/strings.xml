@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CategoryProductManager</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+</resources>
